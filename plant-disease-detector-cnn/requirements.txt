@@ -1,0 +1,13 @@
+streamlit
+tensorflow
+numpy
+pillow
+
+📦 What Each One Does:
+streamlit → Web-based user interface
+
+tensorflow → For loading your .h5 CNN model
+
+numpy → Array operations for image input
+
+pillow → For image handling (Image.open())
