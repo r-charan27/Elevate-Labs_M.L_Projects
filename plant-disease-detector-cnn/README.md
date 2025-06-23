@@ -43,7 +43,8 @@ streamlit run app.py
  plant-disease-detector-cnn/
 
  -app.py                    
- -plant_disease_model.h5   
+ -plant_disease_model.h5  
+ 🔗 [look at .h5 file in my g.drive](https://drive.google.com/file/d/14cNgD7qwyJUySj4DzG-wZ8vp84mWeGi-/view?usp=drive_link)
  -requirements.txt          
  -README.md                 
  -Plant_Disease_Report.docx 
@@ -64,8 +65,7 @@ Streamlit
  Used the PlantVillage Tomato Subset for training.
    "https://www.kaggle.com/datasets/emmarex/plantdisease"
 ---
-🔗 [look at .h5 file in my g.drive](https://drive.google.com/file/d/14cNgD7qwyJUySj4DzG-wZ8vp84mWeGi-/view?usp=drive_link)
----
+
 
 📷 Demo Preview
 (Optional: Add screenshot or Loom/YT link)
