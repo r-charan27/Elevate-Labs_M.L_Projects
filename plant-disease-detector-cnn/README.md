@@ -39,7 +39,9 @@ pip install -r requirements.txt
 streamlit run app.py
 ---
 📦 Folder Structure
+
  plant-disease-detector-cnn/
+
  -app.py                    
  -plant_disease_model.h5   
  -requirements.txt          
