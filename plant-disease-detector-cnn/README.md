@@ -40,12 +40,11 @@ streamlit run app.py
 ---
 📦 Folder Structure
  plant-disease-detector-cnn/
- app.py                    ->  #Streamlit app UI
- plant_disease_model.h5    ->  # Trained CNN model
- requirements.txt          ->  # Python dependencies
- README.md                 ->  # This file
- Plant_Disease_Report.docx ->  # Project report (optional)
- samples                   ->  # Sample leaf images
+ -app.py                    
+ -plant_disease_model.h5   
+ -requirements.txt          
+ -README.md                 
+ -Plant_Disease_Report.docx 
 ---
 💡 Tech Stack
 Python
