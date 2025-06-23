@@ -1,7 +1,7 @@
 # Elevate-Labs_M.L_Projects
 # 🤖 Internship Project Showcase – RamCharan Mummadi
 
-This repository showcases two AI-powered internship projects developed as part of the **CodSoft Internship Program**. Each project combines machine learning with user-friendly interfaces built using Streamlit.
+This repository showcases two AI-powered internship projects developed as part of the **Elevate Labs Internship Program**. Each project combines machine learning with user-friendly interfaces built using Streamlit.
 
 ---
 
