@@ -39,13 +39,13 @@ pip install -r requirements.txt
 streamlit run app.py
 ---
 📦 Folder Structure
-plant-disease-detector-cnn/
-├── app.py                    # Streamlit app UI
-├── plant_disease_model.h5    # Trained CNN model
-├── requirements.txt          # Python dependencies
-├── README.md                 # This file
-├── Plant_Disease_Report.docx # Project report (optional)
-└── samples/                  # Sample leaf images
+ plant-disease-detector-cnn/
+ app.py                    ->  #Streamlit app UI
+ plant_disease_model.h5    ->  # Trained CNN model
+ requirements.txt          ->  # Python dependencies
+ README.md                 ->  # This file
+ Plant_Disease_Report.docx ->  # Project report (optional)
+ samples                   ->  # Sample leaf images
 ---
 💡 Tech Stack
 Python
@@ -58,7 +58,8 @@ Pillow
 
 Streamlit
 ---
-📌 Dataset
+📌 Dataset:
+
  Used the PlantVillage Tomato Subset for training.
    "https://www.kaggle.com/datasets/emmarex/plantdisease"
 ---
