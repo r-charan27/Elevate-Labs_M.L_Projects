@@ -44,9 +44,8 @@ streamlit run app.py
 | 3    |   README.md                      | This project overview                      |
 | 4    | chatbot_report.docx              | Internship report                          |
 ---
-📷 Preview Screenshot
-(Optional: Add Loom/YT video or image)
-“Hello! I am your virtual counsellor. Tell me what you're interested in...”
+📷 Preview video demo link
+[LinkedIn](https://www.linkedin.com/posts/ramcharan-mummadi-5973a72a3_machinelearning-ai-streamlit-activity-7343208786511216640-2KrY?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEk08IMBgtVhiLfvseThCHsaIMJ-AW1t6zw) 
 ---
 👨‍💻 Author
 Developed by RamCharan Mummadi
