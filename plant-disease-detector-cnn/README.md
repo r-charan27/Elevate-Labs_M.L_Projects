@@ -68,8 +68,8 @@ Streamlit
 ---
 
 
-📷 Demo Preview
-(Optional: Add screenshot or Loom/YT link)
+📷 Demo video Preview
+[LinkedIn](https://www.linkedin.com/posts/ramcharan-mummadi-5973a72a3_machinelearning-ai-streamlit-activity-7343211606819950592-L5Cq?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEk08IMBgtVhiLfvseThCHsaIMJ-AW1t6zw) 
 ---
 👨‍💻 Author
 Developed by RamCharan Mummadi as part of the Elevate Labs Internship.
